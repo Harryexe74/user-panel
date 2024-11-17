@@ -34,7 +34,7 @@ const ContactDetail = () => {
                 <h5>Email Us</h5>
                 <p>
                   Simply drop us an email at{" "}
-                  <strong>abccddf2020@gmail.com</strong> and you'll receive
+                  <strong>mtechsolutions862@gmail.com</strong> and you'll receive
                   a reply within 24 hours
                 </p>
               </div>

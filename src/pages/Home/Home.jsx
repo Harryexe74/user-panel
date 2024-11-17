@@ -6,6 +6,7 @@ import ShippingPolicy from './ShippingPolicy/ShipingPolicy';
 import FooterSlider from '../../components/common/FooterSlider/FooterSlider';
 import EnjoyAbout from './Enjoy/HomeAbout';
 import Sliding from './Sliding/Sliding';
+import Cctv from '../../components/common/SearchHeader/cctv';
 
 function Home() {
   return (
@@ -16,7 +17,9 @@ function Home() {
       <HomeAbout />
       <CardRow />
       <EnjoyAbout />
+      <Cctv/>
       {/* <ShippingPolicy /> */}
+
       <FooterSlider />
     </div>
   );
